@@ -236,7 +236,7 @@
                     <button type="button" class="btn btn-link text-dark p-1" data-bs-toggle="collapse" data-bs-target="#searchCollapse" title="Cari Menu">
                         <i class="bi bi-search fs-5"></i>
                     </button>
-                    <a href="{{ route('pelanggan.index') }}" class="btn btn-sb">Login</a>
+                    <a href="{{ route('admin.dashboard') }}" class="btn btn-sb">Login</a>
                 </div>
             </div>
         </div>
